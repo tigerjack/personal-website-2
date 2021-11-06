@@ -22,9 +22,11 @@
 title: Simone Perriello
 description: >- # this means to ignore newlines until "baseurl:"
   Ph.D. candidate at Politecnico di Milano. My research revolves around quantum computing and cryptography.
-pitch: A blog about quantum computing and art
+  My interests are related to music and painting
+pitch: Quantum computing and art
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repo: https://github.com/tigerjack/personal-website-2
 
 # Author
 email: simone.perriello@protonmail.com
